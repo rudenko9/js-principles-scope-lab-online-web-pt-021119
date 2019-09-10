@@ -10,6 +10,6 @@ function upperCaseCustomerName() {
   }
   
   function overwriteBestCustomer() {
-    return ' function invoked!';
+    return 'overwriteBestCustomer() function invoked!';
   }
   
