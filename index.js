@@ -1,6 +1,7 @@
 customerName = 'bob';
 
 function upperCaseCustomerName() {
-  return 
+  return 'bob';
+  var upper = 
   
 }
