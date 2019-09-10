@@ -9,7 +9,7 @@ function upperCaseCustomerName() {
    bestCustomer = 'not bob'
   }
   
-  function overwriteBestCustomer() {;
+  function overwriteBestCustomer() {
+   
   }
-    return 'overwriteBestCustomer() function invoked!'
   
