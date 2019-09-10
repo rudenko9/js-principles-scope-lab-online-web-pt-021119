@@ -10,6 +10,6 @@ function upperCaseCustomerName() {
   }
   
   function overwriteBestCustomer() {
-    return 'bankAccount() function invoked!';
+    return ' function invoked!';
   }
   
