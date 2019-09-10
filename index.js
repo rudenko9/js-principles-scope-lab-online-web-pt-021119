@@ -3,3 +3,4 @@ function customerName() {
   const var = "bob";
   return var; 
 }
+customerName()
