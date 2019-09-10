@@ -1,5 +1,5 @@
 // Write your solution in this file!
-function customerNAme() {
+function customerName() {
   const var = "bob";
   return var; 
 }
