@@ -13,3 +13,6 @@ function upperCaseCustomerName() {
     bestCustomer = 'maybe bob'
   }
   
+  function changeLeastFavoriteCustomer() {
+    
+  }
